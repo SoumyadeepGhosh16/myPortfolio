@@ -1,0 +1,15 @@
+.image{
+    position: relative;
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+.portfolioImg {
+    transform: translate(-20px,50px);
+    
+}
+
+.about{
+    margin-top: 400px;
+}
